@@ -1,4 +1,4 @@
-# Project 2: HDB Resale Price Prediction Based on Various Contributing Factors
+# Project: HDB Resale Price Prediction Based on Various Contributing Factors
 ---
 ## Problem Statement
 HDB resale price has been steadily increasing over the decades, more significantly seen post COVID-19 pandemic. In fact, this price increase has been ongoing for the 13th consecutive quarter, since Singapore ended the two-month-long circuit breaker period in 2020. Despite HDB resale price showing signs of moderation compared to those of previous quarters (credits to government property cooling measures implementtion), understanding key factors that influence the price is crucial to maximize return of investment (ROI). This is especially applicable for those looking to buy Build-To-Order (BTO) flats, as they typically need longer waiting time for owners to receive their flats after down payments are made.
